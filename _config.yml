@@ -1,0 +1,28 @@
+name: AspectAnalytics
+favicon: null
+layout_spectrum: 0.6838209298439324
+typography_spectrum: 0.22952193208038807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9802350152749568
+  lightness: 0.7082817677874118
+  saturation: 0.4400689732283354
+  rhythmicContrast: 0.4773996309377253
+purpose: []

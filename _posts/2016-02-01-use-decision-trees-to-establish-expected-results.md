@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T03:58:10.931Z'
-dateModified: '2016-02-02T03:58:07.542Z'
+datePublished: '2016-02-02T04:33:18.173Z'
+dateModified: '2016-02-02T04:33:12.117Z'
 title: Use Decision Trees to Establish Expected Results
 author: []
 sourcePath: _posts/2016-02-01-use-decision-trees-to-establish-expected-results.md

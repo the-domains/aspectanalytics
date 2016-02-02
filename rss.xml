@@ -4,7 +4,7 @@
         <description><![CDATA[Aspect Analytics]]></description>
         <link>https://thegrid.ai/aspectanalytics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 04:59:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 04:59:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aspectanalytics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Use Decision Trees to Establish Expected Results]]></title>
@@ -15,6 +15,7 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Great quotes make great posts."</p>]]></description>
             <link>https://thegrid.ai/aspectanalytics/9f122800-95cb-4160-9226-bcedf0078753/index.html</link>
             <guid isPermaLink="false">9f122800-95cb-4160-9226-bcedf0078753</guid>
             <pubDate>Tue, 02 Feb 2016 04:59:25 GMT</pubDate>
@@ -31,7 +32,7 @@
             <description><![CDATA[<article><h1>Aspect Analytics Services</h1><p>Aspect Analytics Specializes in implementing Transaction Monitoring Systems.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ec713e2b9f9921e4c084cc20a1a3a0ef34a14f4.png"></article>]]></description>
             <link>https://thegrid.ai/aspectanalytics/aspect-analytics-services/index.html</link>
             <guid isPermaLink="false">2242afd2-925a-4890-bb6d-5866272dc3b9</guid>
-            <pubDate>Tue, 02 Feb 2016 04:36:31 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 04:58:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

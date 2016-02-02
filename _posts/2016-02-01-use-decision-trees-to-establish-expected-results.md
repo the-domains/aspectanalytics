@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T03:56:38.317Z'
-dateModified: '2016-02-02T03:47:47.654Z'
+datePublished: '2016-02-02T03:58:10.927Z'
+dateModified: '2016-02-02T03:58:07.542Z'
 title: Use Decision Trees to Establish Expected Results
 author: []
 sourcePath: _posts/2016-02-01-use-decision-trees-to-establish-expected-results.md
@@ -22,4 +22,6 @@ url: use-decision-trees-to-establish-expected-results/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62852d0e-8d83-4412-b554-be38033da907.jpg)
+
 Testing post 1

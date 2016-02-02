@@ -1,6 +1,6 @@
 name: AspectAnalytics
 favicon: null
-layout_spectrum: 0.61999
+layout_spectrum: 0.26512
 typography_spectrum: 0.56471
 title: Aspect Analytics
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.625
   lightness: 0.8125
   saturation: 0.5625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
